@@ -1,0 +1,16 @@
+title: "Large ensemble pCO2 testbed"
+description: |
+  Large ensemble pCO2 testbed (manually ingested)
+recipes:
+
+provenance:
+  providers:
+    - name: "LEAP"
+      description: "STC: Center for Learning the Earth with Artificial Intelligence and Physics"
+      roles:
+        - curator
+  license: CC-BY
+
+maintainers:
+  - name: "Julius Busecke"
+    github: jbusecke

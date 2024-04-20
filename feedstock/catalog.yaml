@@ -1,0 +1,13 @@
+# All the information important to cataloging.
+"ncviewjs:meta_yaml_url": "https://github.com/leap-stc/large-ensemble-pCO2-testbed-feedstock/blob/main/feedstock/meta.yaml"
+tags:
+  - carbon
+  - zarr
+  - gcp
+stores:
+  - id: "CESM.zarr"
+    url: "gs://leap-persistent-ro/data-library-manual/CESM.zarr"
+  - id: "CanESM2.zarr"
+    url: "gs://leap-persistent-ro/data-library-manual/CanESM2.zarr"
+  - id: "GFDL.zarr"
+    url: "gs://leap-persistent-ro/data-library-manual/GFDL.zarr"
